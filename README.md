@@ -26,12 +26,12 @@ The goals / steps of this project are the following:
 [image5]: ./output_imgs/dataset_grayscale_conversion.jpg "Original and grayscale images"
 <!-- [image2]: ./examples/grayscale.jpg "Grayscaling" -->
 <!-- [image3]: ./examples/random_noise.jpg "Random Noise" -->
-[image6]: ./img_web/stop_2.jpg "Traffic Sign 1"
+<!-- [image6]: ./img_web/stop_2.jpg "Traffic Sign 1"
 [image7]: ./img_web/stop_3.jpg "Traffic Sign 2"
 [image8]: ./img_web/v30_1.jpg "Traffic Sign 3"
 [image9]: ./img_web/v60_1.jpg "Traffic Sign 4"
 [image10]: ./img_web/v80_1.jpg "Traffic Sign 5"
-[image11]: ./img_web/vorfahrt_1.jpg "Traffic Sign 6"
+[image11]: ./img_web/vorfahrt_1.jpg "Traffic Sign 6" -->
 [image12]: ./output_imgs/own_images_from_internet.jpg "Web images"
 [image13]: ./output_imgs/own_images_from_internet_detected.jpg "Top 5 Probability"
 
