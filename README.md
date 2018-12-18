@@ -124,11 +124,19 @@ The first architecture used was the Vanilla Lenet model which comprises of few l
 
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
-
+<!-- [image6]: ./img_web/stop_2.jpg "Traffic Sign 1"
+[image7]: ./img_web/stop_3.jpg "Traffic Sign 2"
+[image8]: ./img_web/v30_1.jpg "Traffic Sign 3"
+[image9]: ./img_web/v60_1.jpg "Traffic Sign 4"
+[image10]: ./img_web/v80_1.jpg "Traffic Sign 5"
+[image11]: ./img_web/vorfahrt_1.jpg "Traffic Sign 6" -->
 Original images got from the web:
 
-![alt text][image6]![alt text][image7]![alt text][image8]![alt text][image9]
-![alt text][image10]![alt text][image11]
+<img src="img_web/stop_2.jpg" width="250" /> <img src="img_web/vorfahrt_1.jpg" width="250" /> <img src="img_web/v30_1.jpg" width="250" />
+
+<img src="img_web/v80_1.jpg" width="250" /> <img src="img_web/v60_1.jpg" width="250" /> <img src="img_web/stop_3.jpg" width="250" />
+<!-- ![alt text][image6]![alt text][image7]![alt text][image8]![alt text][image9]
+![alt text][image10]![alt text][image11] -->
 
 
 Here are six German traffic signs that I found on the web which are augmented to be utilized by the neural network model:
