@@ -130,9 +130,9 @@ The first architecture used was the Vanilla Lenet model which comprises of few l
 [image11]: ./img_web/vorfahrt_1.jpg "Traffic Sign 6" -->
 Original images got from the web:
 
-<img src="./img_web/stop_2.jpg" width="250" /> <img src="./img_web/vorfahrt_1.jpg" width="250" /> <img src="img_web/v30_1.jpg" width="250" />
+<img src="./img_web/stop_2.jpg" width="50" /> <img src="./img_web/vorfahrt_1.jpg" width="50" /> <img src="img_web/v30_1.jpg" width="50" />
 
-<img src="img_web/v80_1.jpg" width="250" /> <img src="img_web/v60_1.jpg" width="250" /> <img src="img_web/stop_3.jpg" width="250" />
+<img src="img_web/v80_1.jpg" width="50" /> <img src="img_web/v60_1.jpg" width="50" /> <img src="img_web/stop_3.jpg" width="50" />
 <!-- ![alt text][image6]![alt text][image7]![alt text][image8]![alt text][image9]
 ![alt text][image10]![alt text][image11] -->
 
