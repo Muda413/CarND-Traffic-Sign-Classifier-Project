@@ -24,14 +24,12 @@ The goals / steps of this project are the following:
 [image3]: ./output_imgs/valid_viz.jpg "Visualization"
 [image4]: ./output_imgs/test_viz.jpg "Visualization"
 [image5]: ./output_imgs/dataset_grayscale_conversion.jpg "Original and grayscale images"
-<!-- [image2]: ./examples/grayscale.jpg "Grayscaling" -->
-<!-- [image3]: ./examples/random_noise.jpg "Random Noise" -->
-<!-- [image6]: ./img_web/stop_2.jpg "Traffic Sign 1"
+[image6]: ./img_web/stop_2.jpg "Traffic Sign 1"
 [image7]: ./img_web/stop_3.jpg "Traffic Sign 2"
 [image8]: ./img_web/v30_1.jpg "Traffic Sign 3"
 [image9]: ./img_web/v60_1.jpg "Traffic Sign 4"
 [image10]: ./img_web/v80_1.jpg "Traffic Sign 5"
-[image11]: ./img_web/vorfahrt_1.jpg "Traffic Sign 6" -->
+[image11]: ./img_web/vorfahrt_1.jpg "Traffic Sign 6"
 [image12]: ./output_imgs/own_images_from_internet.jpg "Web images"
 [image13]: ./output_imgs/own_images_from_internet_detected.jpg "Top 5 Probability"
 
@@ -132,7 +130,7 @@ The first architecture used was the Vanilla Lenet model which comprises of few l
 [image11]: ./img_web/vorfahrt_1.jpg "Traffic Sign 6" -->
 Original images got from the web:
 
-<img src="./img_web/stop_2.jpg" width="250" /> <img src="./img_web/vorfahrt_1.jpg" width="250" /> <img src="img_web/v30_1.jpg" width="250" />
+<img src="./img_web/stop_2.jpg" width="30" /> <img src="./img_web/vorfahrt_1.jpg" width="30" /> <img src="img_web/v30_1.jpg" width="50" />
 
 <img src="img_web/v80_1.jpg" width="250" /> <img src="img_web/v60_1.jpg" width="250" /> <img src="img_web/stop_3.jpg" width="250" />
 <!-- ![alt text][image6]![alt text][image7]![alt text][image8]![alt text][image9]
